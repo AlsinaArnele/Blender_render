@@ -1,2 +1,3 @@
 # Blender_render
-My first blender animation I am creating for a challenge.
+Blender animation entry for an animation challenge by https://www.youtube.com/c/pwnisher.
+The design and due process took a week to complete.
